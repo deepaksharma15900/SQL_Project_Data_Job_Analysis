@@ -1,0 +1,8 @@
+# Ignore Visual Studio Code settings folder
+.vscode/
+
+# Ignore the "Waste Files" directory
+Waste Files/
+
+# Ignore the CSV files directory
+csv_files-20250719T004242Z-1-001/
